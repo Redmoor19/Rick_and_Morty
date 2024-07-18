@@ -1,5 +1,5 @@
 export type CharLocation = {
-    origin: string;
+    name: string;
     url: string;
 }
 
